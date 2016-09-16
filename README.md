@@ -51,7 +51,7 @@ Todo...
 
 #### Fields
 Field | Description | Required?
--|-|-
+---|---|---
 `title` | Title | :white_check_mark:
 `container-title` | Magazine name | :white_check_mark:
 `volume` | Volume number |
@@ -64,7 +64,7 @@ Field | Description | Required?
 
 #### Names
 Field | Description
--|-
+---|---
 `author` | Author
 `editor` | Editor
 
@@ -78,7 +78,7 @@ Field | Description
 
 #### Fields
 Field | Description | Required?
--|-|-
+---|---|---
 `title` | Title of article | :white_check_mark:
 `container-title` | Name of newspaper | :white_check_mark:
 `section` | Section name |
@@ -90,7 +90,7 @@ Field | Description | Required?
 
 #### Names
 Field | Description
--|-
+---|---
 `author` | Author
 `editor` | Editor
 
@@ -104,7 +104,7 @@ Field | Description
 
 #### Fields
 Field | Description | Required?
--|-|-
+---|---|---
 `title` | Title | :white_check_mark:
 `container-title` | Journal | :white_check_mark:
 `journalAbbreviation` | Journal Abbreviation / "shortname" |
@@ -117,7 +117,7 @@ Field | Description | Required?
 
 #### Names
 Field | Description
--|-
+---|---
 `author` | Author
 `editor` | Editor
 
@@ -131,7 +131,7 @@ Field | Description
 
 #### Fields
 Field | Description | Required?
--|-|-
+---|---|---
 `title` | Bill title | :white_check_mark:
 `number` | Bill number |
 `page` | Code pages |
@@ -144,7 +144,7 @@ Field | Description | Required?
 
 #### Names
 Field | Description
--|-
+---|---
 `author` | Sponsor
 
 ([Back to top](#csl-field-maps))
@@ -157,7 +157,7 @@ Field | Description
 
 #### Fields
 Field | Description | Required?
--|-|-
+---|---|---
 `title` | Book title | :white_check_mark:
 `collection-title` | Series title |
 `collection-number` | Series number |
@@ -171,7 +171,7 @@ Field | Description | Required?
 
 #### Names
 Field | Description
--|-
+---|---
 `author` | Author
 `editor` | Editor
 `collection-editor` | Series Editor
@@ -188,7 +188,7 @@ Field | Description
 
 #### Fields
 Field | Description | Required?
--|-|-
+---|---|---
 `title` | Title |
 `container-title` | Program title | :white_check_mark:
 `number` | Episode number |
@@ -199,7 +199,7 @@ Field | Description | Required?
 
 #### Names
 Field | Description
--|-
+---|---
 `author` | Producer
 `director` | Director
 
@@ -213,7 +213,7 @@ Field | Description
 
 #### Fields
 Field | Description | Required?
--|-|-
+---|---|---
 `title` | Section / chapter title | :white_check_mark:
 `container-title` | Book title | :white_check_mark:
 `chapter-number` | Section / chapter number |
@@ -231,7 +231,7 @@ Field | Description | Required?
 
 #### Names
 Field | Description
--|-
+---|---
 `author` | Section / chapter author
 `container-author` | Book author
 `editor` | Editor
@@ -269,7 +269,7 @@ Todo...
 
 #### Fields
 Field | Description | Required?
--|-|-
+---|---|---
 `title` | Entry title | :white_check_mark:
 `container-title` | Encyclopedia title | :white_check_mark:
 `collection-title` | Series |
@@ -285,7 +285,7 @@ Field | Description | Required?
 
 #### Names
 Field | Description
--|-
+---|---
 `author` | Author
 `editor` | Editor
 `collection-editor` | Series editor
@@ -322,7 +322,7 @@ Todo...
 
 #### Fields
 Field | Description | Required?
--|-|-
+---|---|---
 `title` | Title | :white_check_mark:
 `number` | Statute number |
 `section` | Section number |
@@ -332,7 +332,7 @@ Field | Description | Required?
 
 #### Names
 Field | Description
--|-
+---|---
 `author` | Author
 
 ([Back to top](#csl-field-maps))
@@ -345,7 +345,7 @@ Field | Description
 
 #### Fields
 Field | Description | Required?
--|-|-
+---|---|---
 `title` | Case name | :white_check_mark:
 `authority` | Court | :white_check_mark:
 `number` | Docket number |
@@ -354,7 +354,7 @@ Field | Description | Required?
 
 #### Names
 Field | Description
--|-
+---|---
 `author` | Author
 
 ([Back to top](#csl-field-maps))
@@ -381,7 +381,7 @@ Todo...
 
 #### Fields
 Field | Description | Required?
--|-|-
+---|---|---
 `title` | Title of film | :white_check_mark:
 `publisher` | Distributor |
 `genre` | Genre |
@@ -392,7 +392,7 @@ Field | Description | Required?
 
 #### Names
 Field | Description
--|-
+---|---
 `author` | Scriptwriter
 `director` | Director
 `editor` | Producer
@@ -421,7 +421,7 @@ Todo...
 
 #### Fields
 Field | Description | Required?
--|-|-
+---|---|---
 `title` | Title | :white_check_mark:
 `event` | Conference name | :white_check_mark:
 `publisher-place` | Conference location | :white_check_mark:
@@ -429,7 +429,7 @@ Field | Description | Required?
 
 #### Names
 Field | Description
--|-
+---|---
 `author` | Author
 `editor` | Editor
 `collection-editor` | Series Editor
@@ -445,7 +445,7 @@ Field | Description
 
 #### Fields
 Field | Description | Required?
--|-|-
+---|---|---
 `title` | Title | :white_check_mark:
 `number` | Patent number | :white_check_mark:
 `jurisdiction` | Jurisdiction | :white_check_mark:
@@ -456,7 +456,7 @@ Field | Description | Required?
 
 #### Names
 Field | Description
--|-
+---|---
 `author` | Inventor
 
 ([Back to top](#csl-field-maps))
@@ -490,7 +490,7 @@ Todo...
 
 #### Fields
 Field | Description | Required?
--|-|-
+---|---|---
 `title` | Title | :white_check_mark:
 `number` | Report number |
 `collection-title` | Series |
@@ -503,7 +503,7 @@ Field | Description | Required?
 
 #### Names
 Field | Description
--|-
+---|---
 `author` | Author
 `collection-editor` | Series editor
 `translator` | Translator
@@ -539,7 +539,7 @@ Todo...
 
 #### Fields
 Field | Description | Required?
--|-|-
+---|---|---
 `title` | Title | :white_check_mark:
 `event` | Event name | :white_check_mark:
 `event-place` | Event location |
@@ -548,7 +548,7 @@ Field | Description | Required?
 
 #### Names
 Field | Description
--|-
+---|---
 `author` | Presenter
 
 ([Back to top](#csl-field-maps))
@@ -561,7 +561,7 @@ Field | Description
 
 #### Fields
 Field | Description | Required?
--|-|-
+---|---|---
 `title` | Title | :white_check_mark:
 `number-of-pages` | Number of pages |
 `publisher` | University | :white_check_mark:
@@ -571,7 +571,7 @@ Field | Description | Required?
 
 #### Names
 Field | Description
--|-
+---|---
 `author` | Author
 
 ([Back to top](#csl-field-maps))
@@ -591,7 +591,7 @@ Todo...
 
 #### Fields
 Field | Description | Required?
--|-|-
+---|---|---
 `title` | Content title | :white_check_mark:
 `container-title` | Website title | :white_check_mark:
 `URL` | URL | :white_check_mark:
@@ -600,7 +600,7 @@ Field | Description | Required?
 
 #### Names
 Field | Description
--|-
+---|---
 `author` | Author
 
 ([Back to top](#csl-field-maps))
